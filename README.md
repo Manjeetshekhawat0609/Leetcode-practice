@@ -26,3 +26,19 @@ Leetcode-practice/
 ├── Stack & Queue/
 ├── Trees & Graphs/
 └── Dynamic Programming/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+<!---LeetCode Topics End-->
