@@ -45,6 +45,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,5 +70,6 @@ Leetcode-practice/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
