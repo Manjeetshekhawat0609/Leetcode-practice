@@ -7,8 +7,8 @@ A curated collection of solutions to coding challenges from **LeetCode**, **Geek
 ## 🚀 Languages Supported
 
 - [x] **Java** 
-- [ ] **C / C++** 
-- [ ] **Python** 
+- [x] **C / C++** 
+- [x] **Python** 
 
 ---
 
