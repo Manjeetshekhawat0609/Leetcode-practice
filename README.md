@@ -51,6 +51,7 @@ Leetcode-practice/
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -103,6 +104,7 @@ Leetcode-practice/
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
