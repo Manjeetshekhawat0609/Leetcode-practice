@@ -109,6 +109,7 @@ Leetcode-practice/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
