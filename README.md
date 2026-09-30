@@ -38,10 +38,12 @@ Leetcode-practice/
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +120,12 @@ Leetcode-practice/
 | [0242-valid-anagram](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
