@@ -64,6 +64,7 @@ Leetcode-practice/
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Leetcode-practice/
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -128,4 +131,8 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
