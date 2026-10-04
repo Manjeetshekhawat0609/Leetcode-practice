@@ -37,6 +37,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -49,6 +50,7 @@ Leetcode-practice/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
