@@ -51,6 +51,7 @@ Leetcode-practice/
 | [0001-two-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -128,6 +129,7 @@ Leetcode-practice/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
