@@ -50,6 +50,7 @@ Leetcode-practice/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0136-single-number/) | Easy |
@@ -112,6 +113,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
