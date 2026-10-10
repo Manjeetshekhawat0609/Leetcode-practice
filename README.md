@@ -49,6 +49,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0035-search-insert-position/) | Easy |
@@ -126,6 +127,7 @@ Leetcode-practice/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -146,4 +148,8 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
