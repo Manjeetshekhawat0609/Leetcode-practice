@@ -62,6 +62,7 @@ Leetcode-practice/
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
+| [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -167,9 +168,14 @@ Leetcode-practice/
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
 <!---LeetCode Topics End-->
