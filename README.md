@@ -161,6 +161,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ Leetcode-practice/
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0155-min-stack/) | Medium |
 | [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
