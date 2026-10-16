@@ -64,6 +64,7 @@ Leetcode-practice/
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -76,6 +77,7 @@ Leetcode-practice/
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 ## Divide and Conquer
@@ -83,6 +85,7 @@ Leetcode-practice/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,10 +94,12 @@ Leetcode-practice/
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -184,4 +189,16 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
