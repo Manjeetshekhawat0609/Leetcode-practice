@@ -56,6 +56,7 @@ Leetcode-practice/
 | [0027-remove-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -94,6 +95,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -219,4 +221,8 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
