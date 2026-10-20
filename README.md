@@ -64,6 +64,7 @@ Leetcode-practice/
 | [0136-single-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
@@ -225,4 +226,8 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
