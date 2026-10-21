@@ -58,6 +58,7 @@ Leetcode-practice/
 | [0049-group-anagrams](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -79,6 +80,7 @@ Leetcode-practice/
 | [0001-two-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -115,6 +117,7 @@ Leetcode-practice/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
