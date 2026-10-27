@@ -59,6 +59,7 @@ Leetcode-practice/
 | [0035-search-insert-position](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -97,6 +98,7 @@ Leetcode-practice/
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -178,6 +180,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
