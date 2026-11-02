@@ -77,6 +77,7 @@ Leetcode-practice/
 | [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -113,6 +114,7 @@ Leetcode-practice/
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@ Leetcode-practice/
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
