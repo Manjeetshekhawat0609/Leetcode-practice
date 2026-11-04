@@ -60,6 +60,7 @@ Leetcode-practice/
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -184,6 +185,7 @@ Leetcode-practice/
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -242,6 +244,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0055-jump-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
