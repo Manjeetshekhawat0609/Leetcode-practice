@@ -178,6 +178,7 @@ Leetcode-practice/
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Dynamic Programming
@@ -206,6 +207,7 @@ Leetcode-practice/
 | [0020-valid-parentheses](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0155-min-stack/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
