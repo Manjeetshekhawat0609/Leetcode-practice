@@ -69,6 +69,7 @@ Leetcode-practice/
 | [0128-longest-consecutive-sequence](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -145,6 +146,7 @@ Leetcode-practice/
 | [0033-search-in-rotated-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ Leetcode-practice/
 | [0088-merge-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
