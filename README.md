@@ -77,6 +77,7 @@ Leetcode-practice/
 | [0283-move-zeroes](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -254,6 +255,7 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
