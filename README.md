@@ -78,6 +78,7 @@ Leetcode-practice/
 | [0284-peeking-iterator](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0284-peeking-iterator/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -149,6 +150,7 @@ Leetcode-practice/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0704-binary-search](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
