@@ -80,6 +80,7 @@ Leetcode-practice/
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
+| [0739-daily-temperatures](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -213,6 +214,7 @@ Leetcode-practice/
 | [0020-valid-parentheses](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -270,4 +272,5 @@ Leetcode-practice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
