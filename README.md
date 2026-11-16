@@ -82,6 +82,7 @@ Leetcode-practice/
 | [0705-design-hashset](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0705-design-hashset/) | Easy |
 | [0739-daily-temperatures](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -152,6 +153,7 @@ Leetcode-practice/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
