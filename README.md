@@ -41,6 +41,7 @@ Leetcode-practice/
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -201,11 +202,13 @@ Leetcode-practice/
 | [0042-trapping-rain-water](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manjeetshekhawat0609/Leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
